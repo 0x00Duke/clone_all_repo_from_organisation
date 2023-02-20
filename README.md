@@ -47,8 +47,8 @@ chmod +x clone_repos.sh && ./clone_repos.sh your_token your_organization_name
 
 
 
-### But this will clone all the repositories of the organization where the script ran
-### If you want to make the scipt accessible from anywhere, you can do this:
+### But this will clone all the repositories of the organization where the script has been ran
+### If you want to make the script accessible from anywhere, you can do this:
 
 #### 1. Create a folder in your home directory:
 
